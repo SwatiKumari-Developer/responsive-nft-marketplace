@@ -18,7 +18,7 @@
     <description>Responsive NFT marketplace built with Spring Boot, REST APIs, JPA, MySQL, HTML, CSS, and JavaScript.</description>
 
     <properties>
-        <java.version>21</java.version>
+        <java.version>25</java.version>
     </properties>
 
     <dependencies>
