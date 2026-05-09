@@ -148,8 +148,3 @@ curl -X POST http://localhost:8080/api/nfts ^
   -d "{\"title\":\"Pixel Moon\",\"category\":\"Art\",\"description\":\"Limited digital artwork\",\"imageUrl\":\"https://images.unsplash.com/photo-1634986666676-ec8fd927c23d?auto=format&fit=crop&w=900&q=80\",\"price\":1.25}"
 ```
 
-## Notes For Resume Explanation
-
-You can describe the project like this:
-
-Built a responsive NFT marketplace using Java, Spring Boot, REST APIs, JPA/Hibernate, and MySQL-ready persistence. Implemented user authentication, NFT listing, search/filtering, bidding, purchase transactions, and transaction history with a layered MVC architecture. Designed a responsive HTML/CSS/JavaScript frontend and connected it to JSON REST endpoints.
